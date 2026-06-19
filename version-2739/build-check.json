@@ -1,0 +1,11 @@
+{
+  "parsed_movies": 2000,
+  "html_files": 2014,
+  "movie_detail_pages": 2000,
+  "category_pages": 10,
+  "category_movie_coverage": 2000,
+  "baidu_script_pages": 2014,
+  "image_files_in_output": 0,
+  "m3u8_sources_extracted": 20,
+  "expected_html_files": 2014
+}
